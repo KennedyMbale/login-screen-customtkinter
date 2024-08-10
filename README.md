@@ -17,3 +17,10 @@ pip install customtkinter
 pip install CTkMessagebox
 ```
 </div>
+<h2 align="center"> How it looks? </h2>
+
+<div align="center">
+
+![Screenshot](https://github.com/KennedyMbale/login-screen-customtkinter/blob/master/Screenshot%202024-08-10%20at%2016.27.51.png)
+
+</div>
