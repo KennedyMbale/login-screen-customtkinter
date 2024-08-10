@@ -16,7 +16,7 @@ loginWindow.title('Login Screen')
 loginWindow.geometry(f'{WIDTH}x{HEIGHT}+{x}+{y}')
 
 
-my_email = 'kennedymbale4@gmail.com'
+my_email = 'admin@admin.com'
 my_pass = '1234'
 
 
